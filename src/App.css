@@ -1,0 +1,90 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.NavBar .nav-lnk {
+    color: black;
+}
+.NavBar span{
+    color: red;
+    font-weight: bolder;
+    font-size: large;
+}
+.btn-nav {
+    margin-left: 30px;
+}
+
+.baner h1, h5 {
+    color: white;
+}
+.text{
+    margin: 1% 0 3% 0;
+}
+.baner .btn-baner {
+    margin-left: 10px;
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+
+.baner .input-baner {
+    width: 30%;
+    margin-left: 30%;
+    padding: 5px;
+    border-radius: 2px;
+    border: none;
+}
+
+.cardI :hover {
+    transform: scale(1.03);
+}
+
+.cardI {
+    margin: 0 0 10px 0;    
+}
+
+.f-btn {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;   
+}
+
+.wallImg {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.conta {
+    width: 60%;
+}
+
+.btn-c-detail {
+    margin: 10px 0 10px 0;
+    text-decoration: none;
+}
+
+.card1 {
+    margin-bottom: 15px;
+}
+
+.btn-c-detail, i {
+    margin-left: 50px;
+}
+
+.cardSpan span {
+    color: purple;
+    font-weight: bold;
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+.footer{
+    margin-top: 2%;
+}
+
+.footer, h4 {
+    background-color: #F8F9FA;
+    padding: 0.5%;
+    text-align: center;
+    color: darkgray;
+}
